@@ -7,7 +7,8 @@ namespace TESTING
 {
     public class TestParsing : MonoBehaviour
     {
-       
+        [SerializeField] private TextAsset fileToRead = null;
+
         // Start is called before the first frame update
         void Start()
         {
@@ -17,7 +18,7 @@ namespace TESTING
 
        void SendFileToParse()
         {
-            List<string> lines = FileManager.ReadTextAsset("testFile");
+            List<string> lines = FileManager.ReadTextAsset(fileToRead);
 
             foreach(string line in lines)
             {

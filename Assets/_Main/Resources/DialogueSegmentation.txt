@@ -1,0 +1,8 @@
+
+
+
+
+Pazzo1: "Voglio una fetta di pizza {a} molto grande ma odio chi ci mette l'ananas"
+Pazzo2: "Non ho un per nulla voglia di {c} continuare a scrivere frasi lunghissime solo per testare{wa 1} gli script"
+Pazzo1: "Beh caro il mio Pazzo2 se non ne hai{c} voglia che ne dici di non testare nulla e poi spararti in testa quando non funziona un cazzo di niente?"
+Pazzo2: "No guarda Pazzo1 questa conversazione all'interno del mio cervello mi {wc 1} e' stata veramente di aiuto"
